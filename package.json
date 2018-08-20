@@ -1,0 +1,22 @@
+{
+  "name": "baramaki",
+  "version": "0.1.0",
+  "description": "TBA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bank/baramaki.git"
+  },
+  "keywords": [
+    "TBA"
+  ],
+  "author": "Bank, Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bank/baramaki/issues"
+  },
+  "homepage": "https://github.com/bank/baramaki"
+}

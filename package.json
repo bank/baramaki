@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/bank/baramaki",
   "devDependencies": {
-    "@google-cloud/functions-emulator": "^1.0.0-beta.5"
+    "@google-cloud/functions-emulator": "^1.0.0-beta.5",
+    "eslint": "^5.4.0",
+    "eslint-config-prettier": "^3.0.1",
+    "eslint-plugin-prettier": "^2.6.2",
+    "prettier": "^1.14.2"
   },
   "dependencies": {
     "node-fetch": "^2.2.0",

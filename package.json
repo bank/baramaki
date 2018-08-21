@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/bank/baramaki/issues"
   },
-  "homepage": "https://github.com/bank/baramaki"
+  "homepage": "https://github.com/bank/baramaki",
+  "devDependencies": {
+    "@google-cloud/functions-emulator": "^1.0.0-beta.5"
+  }
 }

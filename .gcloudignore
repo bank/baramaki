@@ -1,0 +1,6 @@
+.git/
+node_modules/
+.env.sample.yml
+.eslintrc.js
+.prettierrc
+README.md

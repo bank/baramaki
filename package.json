@@ -1,7 +1,7 @@
 {
   "name": "baramaki",
   "version": "0.1.0",
-  "description": "TBA",
+  "description": "Send push notification to many devices from FCM with Google Cloud Functions.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint --fix *.js",
@@ -12,7 +12,11 @@
     "url": "git+ssh://git@github.com/bank/baramaki.git"
   },
   "keywords": [
-    "TBA"
+    "GCP",
+    "Google Cloud Functions",
+    "Firebase",
+    "Firebase Cloud Messaging",
+    "FCM"
   ],
   "author": "Bank, Inc",
   "license": "MIT",

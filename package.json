@@ -37,7 +37,7 @@
     "prettier": "^1.14.2"
   },
   "dependencies": {
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.6.1",
     "uuid": "^3.3.2"
   }
 }
